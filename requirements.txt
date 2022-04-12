@@ -1,0 +1,6 @@
+lambda-networks==0.4.0
+matplotlib==3.3.4
+natsort==8.1.0
+opencv-python==4.5.5.64
+pycocotools==2.0.4
+PyYAML==5.4.1
